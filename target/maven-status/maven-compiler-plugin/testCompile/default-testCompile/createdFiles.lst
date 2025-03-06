@@ -1,0 +1,6 @@
+com\jap\restdemo\WebDemoApplication.class
+com\jap\restdemo\service\ProductServiceImpl.class
+com\jap\restdemo\repository\ProductRepository.class
+com\jap\restdemo\service\ProductService.class
+com\jap\restdemo\controller\ProductController.class
+com\jap\restdemo\domain\Product.class
